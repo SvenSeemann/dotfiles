@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BeautifyRuby",
+		"Better Completion",
+		"BracketHighlighter",
+		"Cheat Sheets",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Origami",
+		"Predawn",
+		"Rails Migrations List",
+		"RubyEval",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jsl",
+		"SublimeREPL"
+	]
+}
