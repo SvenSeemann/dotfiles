@@ -6,7 +6,9 @@
 		"BeautifyRuby",
 		"Better Completion",
 		"BracketHighlighter",
+		"Browser Refresh",
 		"Cheat Sheets",
+		"DashDoc",
 		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
@@ -14,13 +16,14 @@
 		"HTML-CSS-JS Prettify",
 		"Javatar",
 		"Origami",
-		"Predawn",
 		"Rails Migrations List",
 		"RubyEval",
+		"Search Stack Overflow",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jsl",
-		"SublimeREPL"
+		"SublimeREPL",
+		"TodoReview"
 	]
 }

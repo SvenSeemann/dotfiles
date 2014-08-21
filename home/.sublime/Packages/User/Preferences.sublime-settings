@@ -10,7 +10,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"SublimeLinter",
+		"Vintage",
+		"SideBarEnhancements"
 	],
 	"line_numbers": true,
 	"margin": 2,
@@ -22,7 +24,7 @@
 	"show_encoding": true,
 	"tab_size": 2,
 	"tabs_small": true,
-	"theme": "predawn.sublime-theme",
+	
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true
 }
